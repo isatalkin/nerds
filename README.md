@@ -1,1 +1,1 @@
-# nerds
+Верстка личного проекта «Nerds» для базового интенсива на [htmlacademy.ru](https://htmlacademy.ru/)
